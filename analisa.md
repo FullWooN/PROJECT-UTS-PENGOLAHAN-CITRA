@@ -1,6 +1,8 @@
 2. Berikut adalah penjelasan mengenai langkah-langkah analisis yang dilakukan:
 
 #CITRA#
+![Screenshot 2024-05-11 150310](https://github.com/FullWooN/PROJECT-UTS-PENGOLAHAN-CITRA/assets/105794758/5c9ad735-6fde-4c78-b3bd-e5b2973b2074)
+
 Definisi Batas Warna dalam Skema Warna HSV:
 
 Anda menentukan rentang nilai untuk Hue, Saturation, dan Value (disebut juga Hue, Saturation, dan Brightness) dalam skema warna HSV untuk setiap warna yang ingin diidentifikasi. Rentang ini menentukan wilayah warna dalam skema HSV yang akan dianggap sebagai warna merah, hijau, dan biru.
@@ -30,6 +32,8 @@ Dengan menggunakan rentang war
 
 
 #HISTOGRAM
+![Screenshot 2024-05-11 145953](https://github.com/FullWooN/PROJECT-UTS-PENGOLAHAN-CITRA/assets/105794758/df3f47e8-5ce6-4e3f-ab3d-cf4e680ccd8c)
+
 
 Histogram Gambar Asli:
 
@@ -64,6 +68,7 @@ Warna histogram adalah biru, menunjukkan distribusi intensitas piksel biru dalam
 Judul histogram adalah 'Histogram Blue'.
 
 #COLOR RECOGNATION#
+![Screenshot 2024-05-11 150431](https://github.com/FullWooN/PROJECT-UTS-PENGOLAHAN-CITRA/assets/105794758/e38ba248-e679-4559-8aab-1209aacbfc13)
 
 #IDENTIFIER FUNCTION
 Baca Gambar dan Konversi ke Ruang Warna HSV:
